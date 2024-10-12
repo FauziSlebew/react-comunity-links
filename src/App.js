@@ -10,11 +10,11 @@ function App() {
         <meta name="viewport" content="width=device-width" />
         <meta property="og:title" content="Dikira Kira Saja" />
         <meta property="og:image"
-          content="https://files.catbox.moe/6mz5yr.jpg"/>
+          content="https://files.catbox.moe/2zro2r.jpg"/>
         <meta property="og:description"
           content="WhatsApp bot community, WhatsApp bot dev, Community WhatsApp bot, WhatsApp bot drv, wabot"/>
         <meta name="twitter:image:src"
-          content="https://files.catbox.moe/6mz5yr.jpg"/>
+          content="https://files.catbox.moe/2zro2r.jpg"/>
         <title>Community</title>
       </Helmet>
       
