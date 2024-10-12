@@ -20,7 +20,7 @@ function App() {
       
       <div className="container">
         <img alt="profile picture" className="profile-pic"
-          src="https://files.catbox.moe/6mz5yr.jpg"/>
+          src="https://files.catbox.moe/2zro2r.jpg"/>
         <div className="title">
           Fauzi - Community <i className="fas fa-check-circle"></i>
         </div>
