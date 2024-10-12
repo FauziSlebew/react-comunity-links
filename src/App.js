@@ -22,7 +22,7 @@ function App() {
         <img alt="profile picture" className="profile-pic"
           src="https://files.catbox.moe/2zro2r.jpg"/>
         <div className="title">
-          Fauzi - Community <i className="fas fa-check-circle"></i>
+          Emu - Community <i className="fas fa-check-circle"></i>
         </div>
         
         <div className="subtitle">Beginner Team, Suka Bikin Honar</div>
