@@ -22,7 +22,7 @@ function App() {
         <img alt="profile picture" className="profile-pic"
           src="https://files.catbox.moe/6mz5yr.jpg"/>
         <div className="title">
-          Xshiina - Community <i className="fas fa-check-circle"></i>
+          Fauzi - Community <i className="fas fa-check-circle"></i>
         </div>
         
         <div className="subtitle">Beginner Team, Suka Bikin Honar</div>
@@ -31,13 +31,13 @@ function App() {
             <i className="fab fa-instagram"></i>
           </a>
           
-          <a href="https://wa.me/6281276400345?text=hi+balzz">
+          <a href="https://wa.me/6281999319518?text=hiii">
             <i className="far fa-comment-lines"></i>
           </a>
         </div>
 
         <Section title="Social Dev Link">
-          <LinkItem href="https://me.balxzzy.xyz" icon="fa-brands fa-edge" text="My Portfolio"/>
+          <LinkItem href="https://portofolio-zizizy.vercel.app/" icon="fa-brands fa-edge" text="My Portfolio"/>
           <LinkItem href="https://api.balxzzy.xyz" icon="fa-regular fa-fire" text="Projects Rest API's"/>
           <LinkItem href="https://github.com/FauziSlebew" icon="fa-brands fa-github" text="Github"/>
           <LinkItem href="https://tiktok.com/@zyziizi" icon="fa-brands fa-tiktok" text="Tiktok"/>
